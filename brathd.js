@@ -1,4 +1,4 @@
-//ini versi cje
+//ini versi cjs
 // ntr gw bikinin versi esm ya 
 const nexray = require('api-nexray');
 const config = require("@config");
