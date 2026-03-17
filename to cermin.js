@@ -1,10 +1,9 @@
-```
-const { downloadQuotedMedia, downloadMedia, reply } = require('@lib/utils');
-const path = require('path');
-const axios = require('axios');
-const FormData = require('form-data');
-const fs = require('fs-extra');
-const sharp = require('sharp');
+import { downloadQuotedMedia, downloadMedia, reply  } from "@lib/utils";
+import path from "path.js";
+import axios from "axios.js";
+import FormData from "form-data.js";
+import fs from "fs-extra.js";
+import sharp from "sharp.js";
 
 fs.ensureDirSync('tmp');
 
@@ -140,7 +139,7 @@ async function handle(sock, messageInfo) {
   }
 }
 
-module.exports = {
+export default {
   handle,
   Commands: ["tocermin"],
   OnlyPremium: false,
