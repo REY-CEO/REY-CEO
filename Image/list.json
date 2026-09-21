@@ -11,5 +11,19 @@
         "addedAt": "2026-09-16T10:33:41.784Z"
       }
     }
+  },
+  "120363429728139259@g.us": {
+    "createdAt": "2026-09-21T23:54:43.128Z",
+    "updatedAt": "2026-09-21T23:54:43.128Z",
+    "list": {
+      "tess": {
+        "content": {
+          "text": "≡ *S Y S T E M   S T A T U S*\n\n▶ Speed : 723 ms\n▶ Uptime : 07:53:28\n▶ RSS : 411.22 MB · Ext 21.98 MB\n▶ CPU : AMD EPYC Processor (with IBPB) (0 MHz)\n▶ Cores : 8 · Load 2.35 / 2.49 / 2.47\n▶ OS : linux x64 · 35D 07:07:39\n▶ Node : v20.20.2 · PID 36\n\nCPU · 29.4%\n`████░░░░░░░░░░░`\n\nRAM · 6.35 GB / 15.62 GB\n`██████░░░░░░░░░`\n\nHEAP · 144.96 MB / 182.35 MB\n`████████████░░░`",
+          "media": null
+        },
+        "addedAt": "2026-09-21T23:54:43.128Z",
+        "updatedAt": "2026-09-21T23:54:43.128Z"
+      }
+    }
   }
 }
