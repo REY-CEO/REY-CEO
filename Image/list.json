@@ -58,7 +58,7 @@
   },
   "120363429516891377@g.us": {
     "createdAt": "2026-10-11T01:26:49.339Z",
-    "updatedAt": "2026-10-11T01:28:42.263Z",
+    "updatedAt": "2026-10-11T01:29:42.621Z",
     "list": {
       "payment | tesbot": {
         "content": {
@@ -67,6 +67,14 @@
         },
         "addedAt": "2026-10-11T01:28:42.263Z",
         "updatedAt": "2026-10-11T01:28:42.263Z"
+      },
+      "payment": {
+        "content": {
+          "text": ".addlist payment",
+          "media": null
+        },
+        "addedAt": "2026-10-11T01:29:42.621Z",
+        "updatedAt": "2026-10-11T01:29:42.621Z"
       }
     }
   }
