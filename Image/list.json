@@ -58,16 +58,7 @@
   },
   "120363429516891377@g.us": {
     "createdAt": "2026-10-11T01:26:49.339Z",
-    "updatedAt": "2026-10-11T01:30:16.761Z",
-    "list": {
-      "payment | tesbot": {
-        "content": {
-          "text": ".addlist payment | tesbot",
-          "media": null
-        },
-        "addedAt": "2026-10-11T01:28:42.263Z",
-        "updatedAt": "2026-10-11T01:28:42.263Z"
-      }
-    }
+    "updatedAt": "2026-10-11T01:30:33.192Z",
+    "list": {}
   }
 }
