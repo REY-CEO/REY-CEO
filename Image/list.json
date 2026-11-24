@@ -63,7 +63,7 @@
   },
   "120363426158347314@g.us": {
     "createdAt": "2026-11-22T03:50:51.252Z",
-    "updatedAt": "2026-11-24T05:16:27.027Z",
+    "updatedAt": "2026-11-24T05:18:44.697Z",
     "list": {
       "bengkel mlbb": {
         "content": {
@@ -88,14 +88,6 @@
         },
         "addedAt": "2026-11-22T04:20:44.636Z",
         "updatedAt": "2026-11-22T04:20:44.636Z"
-      },
-      "mc": {
-        "content": {
-          "text": ". addlist mc",
-          "media": "https://d.uguu.se/qjsOHAuZLHXy.jpg"
-        },
-        "addedAt": "2026-11-24T05:16:27.027Z",
-        "updatedAt": "2026-11-24T05:16:27.027Z"
       }
     }
   }
